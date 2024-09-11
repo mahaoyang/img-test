@@ -1,1 +1,1 @@
-# ycremote-img
+# img
