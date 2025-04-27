@@ -1,15 +1,1 @@
-proxies:
-- name: "node1"
-  type: vless
-  server: 18.179.197.216
-  port: 443
-  udp: true
-  uuid: 2566ee5d-acd2-4b88-9656-32309912ded3
-  flow: xtls-rprx-vision
-  tls: true
-  servername: www.bing.com
-  client-fingerprint: chrome
-  skip-cert-verify: false
-  reality-opts:
-    public-key: DjovOy3FAmYs84jAULrJ3VT2JnCEWd4lDz7pWCATDwA
-  network: tcp
+
