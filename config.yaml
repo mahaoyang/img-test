@@ -1,10 +1,10 @@
 proxies:
 - name: "node1"
   type: vless
-  server: <replace-this>
+  server: 18.179.197.216
   port: 443
   udp: true
-  uuid: <replace-this>
+  uuid: 2566ee5d-acd2-4b88-9656-32309912ded3
   flow: xtls-rprx-vision
   tls: true
   servername: www.bing.com
